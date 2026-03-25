@@ -1,10 +1,10 @@
-# Mini-projet IA — SliceLab
+# Mini-projet IA - SliceLab
 
 ## Contexte et Objectif
 
 SliceLab est une startup française qui propose une plateforme d'analyse et de conseil aux pizzerias indépendantes et aux petites chaînes. Grâce à son réseau de partenaires, elle collecte des données opérationnelles sur les établissements afin de leur fournir des recommandations personnalisées : ajustement de la carte, optimisation des délais, positionnement tarifaire.
 
-Afin de mieux adapter ses recommandations, SliceLab souhaite segmenter automatiquement ses pizzerias partenaires en groupes homogènes. Plutôt que de traiter tous les établissements de la même façon, l'idée est d'identifier des profils distincts — par exemple des pizzerias artisanales premium d'un côté et des enseignes à fort volume de l'autre — pour personnaliser les conseils fournis.
+Afin de mieux adapter ses recommandations, SliceLab souhaite segmenter automatiquement ses pizzerias partenaires en groupes homogènes. Plutôt que de traiter tous les établissements de la même façon, l'idée est d'identifier des profils distincts - par exemple des pizzerias artisanales premium d'un côté et des enseignes à fort volume de l'autre - pour personnaliser les conseils fournis.
 
 ## Solution envisagée
 
@@ -31,15 +31,15 @@ Le jeu de données final attendu doit contenir les colonnes suivantes :
 
 ### Les fichiers sources
 
-**`donnees_nord_ouest.csv`** — Export de la région Nord-Ouest (Bretagne, Normandie, Pays de la Loire). Environ 120 établissements.
+**`donnees_nord_ouest.csv`** - Export de la région Nord-Ouest (Bretagne, Normandie, Pays de la Loire). Environ 120 établissements.
 
-**`donnees_sud_est.tsv`** — Export de la région Sud-Est (Occitanie, PACA, Auvergne-Rhône-Alpes). Environ 130 enregistrements.
+**`donnees_sud_est.tsv`** - Export de la région Sud-Est (Occitanie, PACA, Auvergne-Rhône-Alpes). Environ 130 enregistrements.
 
-**`donnees_idf.csv`** — Export de la région Île-de-France. Environ 120 établissements.
+**`donnees_idf.csv`** - Export de la région Île-de-France. Environ 120 établissements.
 
-**`donnees_grand_est.csv`** — Export de la région Grand-Est et Bourgogne. Environ 120 établissements.
+**`donnees_grand_est.csv`** - Export de la région Grand-Est et Bourgogne. Environ 120 établissements.
 
-**`export_toutes_regions.csv`** — Export consolidé produit par une équipe externe, couvrant l'ensemble du territoire. Environ 120 enregistrements supplémentaires.
+**`export_toutes_regions.csv`** - Export consolidé produit par une équipe externe, couvrant l'ensemble du territoire. Environ 120 enregistrements supplémentaires.
 
 ## Travail attendu
 
